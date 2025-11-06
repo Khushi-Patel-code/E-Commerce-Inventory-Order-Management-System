@@ -72,7 +72,7 @@ The database supports key e-commerce operations including:
 - **Many-to-many** product-supplier relationship table  
 - **Timestamps & audit trails** for all key activities
 
-## Diagrams
+## 🌌 Diagrams
 <img width="1333" height="1697" alt="image" src="https://github.com/user-attachments/assets/cc9cd3fe-16b7-43f4-bd12-eab820ab30b7" />
 EER Diagram
 
