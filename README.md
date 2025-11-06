@@ -56,6 +56,17 @@ The database supports key e-commerce operations including:
 - ✅ **Timestamps & audit trails** for all key activities
 
 ### Diagrams
-https://keep.google.com/u/0/media/v2/1ZJETwvUQMobAg9n6X8oFES40gFfrCr8WZjq3KEuSY9WKWy5ReVcj5gsY65y5owk/11AxosoqCK5Hw73XHr3xuFqrfk5VDsyOdmPc5wKZU-UHrNQJoIKtwdelkvfg0R9U?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp
+<img width="1333" height="1697" alt="image" src="https://github.com/user-attachments/assets/cc9cd3fe-16b7-43f4-bd12-eab820ab30b7" />
+EER Diagram
+
+
+<img width="1574" height="1676" alt="image" src="https://github.com/user-attachments/assets/c9b7b2b7-3dd1-4e50-8ce4-f090b3e8bc80" />
+ER Conceptual Diagram
+
+
+<img width="1164" height="1646" alt="image" src="https://github.com/user-attachments/assets/6695d59c-5f10-4367-b9f2-0e3bd49b6e81" />
+Schema Diagram
+
+
 
 
