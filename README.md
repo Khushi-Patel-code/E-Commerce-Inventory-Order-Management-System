@@ -53,6 +53,9 @@ The database supports key e-commerce operations including:
 - ✅ **ENUM constraints** for predefined order and payment states  
 - ✅ **Indexing** to improve query performance  
 - ✅ **Many-to-many** product-supplier relationship table  
-- ✅ **Timestamps & audit trails** for all key activities  
+- ✅ **Timestamps & audit trails** for all key activities
+
+### Diagrams
+https://keep.google.com/u/0/media/v2/1ZJETwvUQMobAg9n6X8oFES40gFfrCr8WZjq3KEuSY9WKWy5ReVcj5gsY65y5owk/11AxosoqCK5Hw73XHr3xuFqrfk5VDsyOdmPc5wKZU-UHrNQJoIKtwdelkvfg0R9U?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp
 
 
