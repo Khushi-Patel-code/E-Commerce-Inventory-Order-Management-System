@@ -16,22 +16,42 @@ The database supports key e-commerce operations including:
 ```
 📦 E-Commerce-Inventory-Order-Management-System
 │
-├── 📁 SQL
-│ └── 
+├── 📁 csv
+│   ├── 📁 sample_view
+│   │   ├── categories.csv
+│   │   ├── customers.csv
+│   │   ├── inventory.csv
+│   │   ├── order_items.csv
+│   │   ├── orders.csv
+│   │   ├── payments.csv
+│   │   ├── product_suppliers.csv
+│   │   ├── products.csv
+│   │   ├── reviews.csv
+│   │   ├── roles.csv
+│   │   ├── stock_movements.csv
+│   │   ├── suppliers.csv
+│   │   ├── users.csv
+│   │   └── warehouses.csv
+│   │
+│   └── 📁 views_table
+│       ├── pending_payments.csv
+│       ├── product_inventory_summary.csv
+│       ├── supplier_performance.csv
+│       ├── customer_order_summary.csv
+│       └── payment_summary.csv
 │
-├── 📁 CSV
-│ ├── customers.csv # Sample customer data
-│ ├── suppliers.csv # Sample supplier data
-│ ├── products.csv # Product catalog data
-│ ├── orders.csv # Example order dataset
-│ └── payments.csv # Example payment records
+├── 📁 sql
+│   ├── Relational_Schema.sql
+│   ├── Views.sql
+│   └── sample_values.sql
 │
-├── 📁 Diagrams
-│ ├── ER_Schema_Initial.png # Initial ER diagram (without reviews table)
-│ ├── ER_Schema_Updated.png # Updated ER diagram (with reviews table added)
-│ └── Schema_Relationships.pdf # Annotated schema relationship chart
+├── 📁 diagrams
+│   ├── Conceptual_Schema_DBMS_Project.jpg
+│   ├── ER_Conceptual_Diagram_DBMS_Project.drawio.png
+│   └── Rel_Sch_REV.png
 │
 └── README.md
+
 ```
 
 ## 🧱 Database Design Summary  
@@ -47,13 +67,13 @@ The database supports key e-commerce operations including:
 
 ### ⚙️ Key Features  
 
-- ✅ **Normalized relational schema (3NF)** to avoid redundancy  
-- ✅ **Foreign key constraints** for maintaining data integrity  
-- ✅ **Triggers** for automatic inventory updates upon order changes  
-- ✅ **ENUM constraints** for predefined order and payment states  
-- ✅ **Indexing** to improve query performance  
-- ✅ **Many-to-many** product-supplier relationship table  
-- ✅ **Timestamps & audit trails** for all key activities
+- **Normalized relational schema (3NF)** to avoid redundancy  
+- **Foreign key constraints** for maintaining data integrity  
+- **Triggers** for automatic inventory updates upon order changes  
+- **ENUM constraints** for predefined order and payment states  
+- **Indexing** to improve query performance  
+- **Many-to-many** product-supplier relationship table  
+- **Timestamps & audit trails** for all key activities
 
 ### Diagrams
 <img width="1333" height="1697" alt="image" src="https://github.com/user-attachments/assets/cc9cd3fe-16b7-43f4-bd12-eab820ab30b7" />
