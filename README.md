@@ -89,6 +89,20 @@ ER Conceptual Diagram
 <img width="1164" height="1646" alt="image" src="https://github.com/user-attachments/assets/6695d59c-5f10-4367-b9f2-0e3bd49b6e81" />
 Schema Diagram
 
+## 🧑‍🎓 Authors
 
+- Khushi Patel
+- Prabhnoor Saini
+- Jaydem Mallari
+- Rabab Raza
+
+Course: Database Management Systems (DBMS)
+Institution: Ontario Tech University
+Term: Fall 2025
+Purpose: Academic project submission
+
+## 📜 License
+
+*This repository is for educational use only and not intended for commercial purposes.*
 
 
