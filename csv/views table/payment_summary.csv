@@ -1,0 +1,11 @@
+payment_method,payment_status,total_transactions,total_amount,avg_transaction_value,percentage_of_total
+card,completed,1,292.49,292.49,8.77%
+paypal,completed,1,108.69,108.69,3.26%
+cod,pending,1,72.79,72.79,2.18%
+bank_transfer,completed,1,1369.87,1369.87,41.09%
+gift_card,refunded,1,84.18,84.18,2.52%
+apple_pay,completed,1,574.99,574.99,17.25%
+google_pay,completed,1,221.57,221.57,6.65%
+crypto,failed,1,382.89,382.89,11.48%
+card,processing,1,50.19,50.19,1.51%
+other,completed,1,176.37,176.37,5.29%

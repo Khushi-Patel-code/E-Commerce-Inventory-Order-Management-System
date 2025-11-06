@@ -1,0 +1,18 @@
+customer_id,first_name,last_name,email,order_id,order_number,total,order_status,order_date
+1,Aarav,Patel,aarav.patel@example.com,NULL,NULL,NULL,NULL,NULL
+2,Sofia,Nguyen,sofia.nguyen@example.com,1,ORD-1001,292.49,processed,"2025-02-10 11:20:00"
+2,Sofia,Nguyen,sofia.nguyen@example.com,9,ORD-1009,50.19,pending,"2025-05-20 09:25:00"
+3,Ethan,Johnson,ethan.johnson@example.com,2,ORD-1002,108.69,shipped,"2025-02-18 14:10:00"
+3,Ethan,Johnson,ethan.johnson@example.com,10,ORD-1010,176.37,processed,"2025-06-02 14:00:00"
+4,Ashley,West,ashley.west@example.com,3,ORD-1003,72.79,pending,"2025-03-03 09:40:00"
+5,Liam,Wong,liam.wong@example.com,4,ORD-1004,1369.87,delivered,"2025-03-10 13:15:00"
+5,Liam,Wong,liam.wong@example.com,11,ORD-1011,801.87,shipped,"2025-07-10 11:25:00"
+6,Isabella,Garcia,isabella.garcia@example.com,5,ORD-1005,84.18,cancelled,"2025-03-25 10:00:00"
+6,Isabella,Garcia,isabella.garcia@example.com,12,ORD-1012,61.49,delivered,"2025-07-18 16:00:00"
+7,Noah,Williams,noah.williams@example.com,NULL,NULL,NULL,NULL,NULL
+8,Olivia,Martinez,olivia.martinez@example.com,6,ORD-1006,574.99,processed,"2025-04-16 15:45:00"
+8,Olivia,Martinez,olivia.martinez@example.com,13,ORD-1013,90.39,cancelled,"2025-08-10 10:10:00"
+9,William,Brown,william.brown@example.com,7,ORD-1007,221.57,delivered,"2025-04-30 12:05:00"
+9,William,Brown,william.brown@example.com,14,ORD-1014,1030.87,pending,"2025-09-02 13:45:00"
+10,Aisha,Ali,aisha.ali@example.com,8,ORD-1008,382.89,shipped,"2025-05-05 17:30:00"
+10,Aisha,Ali,aisha.ali@example.com,15,ORD-1015,265.77,delivered,"2025-10-01 18:25:00"
