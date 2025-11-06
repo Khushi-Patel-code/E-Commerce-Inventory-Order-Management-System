@@ -94,7 +94,7 @@ VALUES
 
 INSERT INTO inventory (product_id, warehouse_id, quantity, last_updated)
 VALUES
-(1, 5, 320, '2025-05-29 1warehouseswarehouse_id4:25:00'),
+(1, 5, 320, '2025-05-29 14:25:00'),
 (2, 1, 180, '2025-09-06 14:30:00'),
 (3, 2, 250, '2025-03-02 14:45:00'),
 (4, 3, 600, '2025-02-13 15:00:00'),
